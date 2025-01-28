@@ -1,2 +1,2 @@
 # tasklaravell
-task laravel 
+task laravel ;
